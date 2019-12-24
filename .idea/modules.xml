@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bank/Bank.iml" filepath="$PROJECT_DIR$/Bank/Bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Callable/Callable.iml" filepath="$PROJECT_DIR$/Callable/Callable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeadKey/DeadKey.iml" filepath="$PROJECT_DIR$/DeadKey/DeadKey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interceptor/Interceptor.iml" filepath="$PROJECT_DIR$/Interceptor/Interceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior.iml" filepath="$PROJECT_DIR$/JavaSenior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LockTest/LockTest.iml" filepath="$PROJECT_DIR$/LockTest/LockTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProducterAndCustomer/ProducterAndCustomer.iml" filepath="$PROJECT_DIR$/ProducterAndCustomer/ProducterAndCustomer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Socket/Socket.iml" filepath="$PROJECT_DIR$/Socket/Socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadCommunicate/ThreadCommunicate.iml" filepath="$PROJECT_DIR$/ThreadCommunicate/ThreadCommunicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadCreate2/ThreadCreate2.iml" filepath="$PROJECT_DIR$/ThreadCreate2/ThreadCreate2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadPool/ThreadPool.iml" filepath="$PROJECT_DIR$/ThreadPool/ThreadPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadSafe/ThreadSafe.iml" filepath="$PROJECT_DIR$/ThreadSafe/ThreadSafe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WindowTest/WindowTest.iml" filepath="$PROJECT_DIR$/WindowTest/WindowTest.iml" />
+    </modules>
+  </component>
+</project>
